@@ -1,4 +1,4 @@
-type PancakeFactory @entity {
+type PolyCakeFactory @entity {
   # factory address
   id: ID!
 
